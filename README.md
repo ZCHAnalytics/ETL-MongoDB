@@ -26,7 +26,7 @@
 ## Data Platform Architecture with MySQL
 ## Querying Data in NoSQL Databases
 ## Building a Data Warehouse
-Data Warehousing
-Data Warehousing Reporting
+### Data Warehousing
+### Data Warehousing Reporting
 
 
